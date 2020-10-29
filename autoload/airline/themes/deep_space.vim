@@ -3,7 +3,7 @@ let g:airline#themes#deep_space#palette = {}
 " Normal
 let s:N1 = ['#232936', '#709d6c', 235, 65]
 let s:N2 = ['#9aa7bd', '#323c4d', 248, 238]
-let s:N3 = ['#51617d', '#232a36', 243, 236]
+let s:N3 = ['#51617d', '#1d1e2d', 243, 236]
 let g:airline#themes#deep_space#palette.normal = airline#themes#generate_color_map(s:N1, s:N2, s:N3)
 let g:airline#themes#deep_space#palette.normal_modified = {
       \ 'airline_c': ['#b3785d', '', 137, '', ''],
