@@ -14,8 +14,8 @@ let g:colors_name = 'deep-space'
 let g:deepspace_italics = get(g:, 'deepspace_italics', 0)
 
 " Color Palette
-let s:gray1     = '#1b202a'
-let s:gray2     = '#232936'
+let s:gray1     = '#191A2A'
+let s:gray2     = '#2b2d47'
 let s:gray3     = '#323c4d'
 let s:gray4     = '#51617d'
 let s:gray5     = '#9aa7bd'
