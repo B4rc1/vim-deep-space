@@ -1,10 +1,4 @@
-# Deep Space
-An intergalactically friendly color scheme based off of [Hybrid](https://github.com/w0ng/vim-hybrid).
-
-![screenshot](http://i.imgur.com/Q86eL6v.png)
-
-## Installation
-**NOTE:** This color scheme requires a terminal that supports true colors!
+# A slightly modified version of tyrannicaltoucan/vim-deep-space
 
 Install this color scheme using your preferred Vim plugin manager, then add the
 following to your (n)vim configuration file:
@@ -26,11 +20,5 @@ To use the included [vim-airline](https://github.com/vim-airline/vim-airline) th
 let g:airline_theme='deep_space'
 ```
 
-### Vim Lightline
-To use the included [lightline.vim](https://github.com/itchyny/lightline.vim) theme:
-```vim
-let g:lightline = {
-      \ 'colorscheme': 'deepspace',
-      \ }
-```
 
+I've not cared about lightline as I don't use it
